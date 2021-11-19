@@ -1,5 +1,5 @@
 # CPKT: Cognitive Profiling Attentive Knowledge Tracing
-![CPKT模型图未加载成功](./data/_static/model diagram.png "CPKT model")
+![CPKT模型图未加载成功](./data/_static/model%20diagram.png "CPKT model")
 
 ## Setups
 * Python 3.8.5
