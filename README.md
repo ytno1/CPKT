@@ -9,7 +9,7 @@
 * TensorboardX 2.4
 
 ## Datasets
-We also provide a data processing script to generate corresponding format data. The data and script are available [here](https://www.aliyundrive.com/s/SKentNYYpaz).  
+We also provide a data processing script to generate corresponding format data. The data and script are available [here](https://www.aliyundrive.com/s/SKentNYYpaz) or [there](https://drive.google.com/drive/folders/159Gl27XF1oQBEkSSnosnhkLrIweG2TF1?usp=sharing).  
 
 ## How to run model
 If there are text materials in the datasets, e.g., eanalyst, poj, junyi:  
